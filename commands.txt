@@ -10,7 +10,7 @@ git commit -m "Inicio de actividad aprendiendo a hacer commit"
 git commit -m "actualización de html"
 git commit -m "actulización de css"
 git log
-git checkout
+git revert
 git commit -m "nuevos cambios"
 
 
